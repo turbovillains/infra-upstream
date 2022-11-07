@@ -59,7 +59,7 @@ FROM traefik:v2.9.4
 # traefik
 
 # sonatype/nexus3
-FROM sonatype/nexus3:3.42.0
+FROM sonatype/nexus3:3.43.0
 # sonatype/nexus3
 
 # squidfunk/mkdocs-material
@@ -603,7 +603,7 @@ FROM drakkan/sftpgo:v2.4.0
 # drakkan/sftpgo
 
 # hasura/graphql-engine
-FROM hasura/graphql-engine:v2.14.0
+FROM hasura/graphql-engine:v2.15.0
 # hasura/graphql-engine
 
 # paulbouwer/hello-kubernetes
@@ -627,7 +627,7 @@ FROM ghcr.io/dexidp/dex:v2.35.3
 # dexidp/dex
 
 # argoproj/argocd
-FROM quay.io/argoproj/argocd:v2.5.1
+FROM quay.io/argoproj/argocd:v2.5.2
 # argoproj/argocd
 
 # argoproj/argocd-applicationset
@@ -715,8 +715,12 @@ FROM hadolint/hadolint:v2.10.0-beta
 # hadolint/hadolint
 
 # outlinewiki/outline
-FROM outlinewiki/outline:0.66.2
+FROM outlinewiki/outline:0.66.3
 # outlinewiki/outline
+
+# syncthing/syncthing
+FROM syncthing/syncthing:1.22.1
+# syncthing/syncthing
 
 # apache/airflow
 FROM apache/airflow:2.4.2-python3.10
