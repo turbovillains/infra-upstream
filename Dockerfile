@@ -719,7 +719,7 @@ FROM outlinewiki/outline:0.66.3
 # outlinewiki/outline
 
 # syncthing/syncthing
-FROM syncthing/syncthing:1.22.1
+FROM syncthing/syncthing:1.22.2
 # syncthing/syncthing
 
 # apache/airflow
