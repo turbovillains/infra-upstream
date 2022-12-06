@@ -339,7 +339,7 @@ FROM spoonest/clickhouse-tabix-web-client:stable
 # spoonest/clickhouse-tabix-web-client
 
 # plausible/analytics
-FROM plausible/analytics:v1.4.4
+FROM plausible/analytics:v1.5.1
 # plausible/analytics
 
 # verdaccio/verdaccio
