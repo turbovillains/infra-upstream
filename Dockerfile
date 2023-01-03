@@ -323,7 +323,7 @@ FROM jupyterhub/configurable-http-proxy:4.5.3
 # jupyterhub/configurable-http-proxy
 
 # jupyterhub/repo2docker
-FROM quay.io/jupyterhub/repo2docker:2022.02.0-131.g380f817
+FROM quay.io/jupyterhub/repo2docker:2022.10.0-80.gcde0126
 # jupyterhub/repo2docker
 
 # pihole/pihole
