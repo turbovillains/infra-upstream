@@ -823,7 +823,7 @@ FROM quay.io/tigera/operator:v1.28.4
 # tigera/operator
 
 # calico/typha
-FROM calico/typha:v3.24.4
+FROM calico/typha:v3.25.0
 # calico/typha
 
 # calico/ctl
