@@ -723,7 +723,7 @@ FROM syncthing/syncthing:1.22.1
 # syncthing/syncthing
 
 # apache/airflow
-FROM apache/airflow:2.4.2-python3.10
+FROM apache/airflow:2.5.1-python3.10
 # apache/airflow
 
 # git-sync/git-sync
