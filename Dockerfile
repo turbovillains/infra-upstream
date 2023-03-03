@@ -583,7 +583,7 @@ FROM bitnami/trivy:0.34.0-debian-11-r0
 # bitnami/trivy
 
 # aquasec/trivy
-FROM aquasec/trivy:0.34.0
+FROM aquasec/trivy:0.38.1
 # aquasec/trivy
 
 # external-secrets/external-secrets
